@@ -1,0 +1,9 @@
+# Legacy short paths -> canonical service URLs
+/ahangari-karaj /services/ahangari-karaj/ 301
+/joshkari-karaj /services/joshkari-karaj/ 301
+/darb-ahani-karaj /services/darb-ahani-karaj/ 301
+/hefaz-karaj /services/hefaz-karaj/ 301
+/repair-darb-ahani-karaj /services/repair-darb-ahani-karaj/ 301
+/repair-panjere-ahani-karaj /services/repair-panjere-ahani-karaj/ 301
+/guides/price-ahangari-karaj/ /guides/gheymat-ahangari-karaj/ 301
+/guides/price-joshkari-karaj/ /guides/gheymat-joshkari-karaj/ 301
