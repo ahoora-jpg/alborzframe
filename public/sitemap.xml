@@ -9,11 +9,13 @@
   <url><loc>https://alborzframe.ir/services/joshkari-khorde-kari-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/joshkari-sanati-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/darb-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://alborzframe.ir/services/darb-akardioni-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/repair-darb-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/dar-o-panjere-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/repair-panjere-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/services/chaharchob-felzi-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/services/hefaz-karaj/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://alborzframe.ir/services/hefaz-shakh-gavazni-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/forforge-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/narde-pele-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/repair-hefaz-narde-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -23,6 +25,7 @@
   <url><loc>https://alborzframe.ir/services/sardarb-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/services/shirvani-saghf-shibdar-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/services/alachigh-pergola-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://alborzframe.ir/services/rabitzkari-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/services/boreshkari-ahan-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/custom-metal-parts-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://alborzframe.ir/services/metal-structure-karaj/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -31,5 +34,7 @@
   <url><loc>https://alborzframe.ir/guides/faq-ahangari-joshkari-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/guides/gheymat-ahangari-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/guides/gheymat-joshkari-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://alborzframe.ir/guides/gheymat-darb-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://alborzframe.ir/guides/gheymat-hefaz-ahani-karaj/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://alborzframe.ir/guides/chetor-joshkar-khob-karaj-entekhab-konim/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
