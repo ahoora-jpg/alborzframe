@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alborzframe.ir/sitemap.xml
