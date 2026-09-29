@@ -3,6 +3,16 @@
   "name": "alborzframe",
   "compatibility_date": "2026-09-29",
   "main": "./src/index.js",
+  "routes": [
+    {
+      "pattern": "alborzframe.ir",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.alborzframe.ir",
+      "custom_domain": true
+    }
+  ],
   "assets": {
     "directory": "./public",
     "binding": "ASSETS",
