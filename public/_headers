@@ -4,6 +4,7 @@
   X-Frame-Options: SAMEORIGIN
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
   Cross-Origin-Resource-Policy: same-origin
+  Strict-Transport-Security: max-age=31536000
 
 /assets/*
   Cache-Control: public, max-age=604800, stale-while-revalidate=86400
